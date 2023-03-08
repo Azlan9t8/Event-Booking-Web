@@ -1,0 +1,34 @@
+
+.card img{
+    height: 190px;
+    width: 190px;
+}
+.card-body{
+    text-align: center;
+    font-size: 15px;
+}
+.card-text{
+    text-align: center;
+    font-size: 10px;
+    
+}
+.card:hover {
+opacity: 0.5;
+}
+.pic img{
+    height: 190px;
+    width: 190px;
+    
+}
+#heading{
+    color: white;
+    
+}
+.box img{
+   width: 100px;
+   height: 100px;
+   text-align: center; 
+}
+.box p{
+    color: white;
+}
